@@ -39,7 +39,7 @@ import (
 	"github.com/btcsuite/btcutil"
 	"log"
 	"os"
-	"github.com/innova-foundation/phantom/pkg/socket/wire"
+	"github.com/MotoAcidic/phantom/pkg/socket/wire"
 	"sort"
 	"strconv"
 	"strings"

@@ -1,5 +1,5 @@
-[![Travis](https://img.shields.io/travis/innova-foundation/phantom.svg?style=flat-square)](https://travis-ci.org/innova-foundation/phantom)
-[![Go Report Card](https://goreportcard.com/badge/github.com/innova-foundation/phantom?style=flat-square)](https://goreportcard.com/report/github.com/innova-foundation/phantom)
+[![Travis](https://img.shields.io/travis/MotoAcidic/phantom.svg?style=flat-square)](https://travis-ci.org/MotoAcidic/phantom)
+[![Go Report Card](https://goreportcard.com/badge/github.com/MotoAcidic/phantom?style=flat-square)](https://goreportcard.com/report/github.com/MotoAcidic/phantom)
 
 # Phantom-node Daemon
 
@@ -13,12 +13,15 @@ The phantom daemon is custom built wallet designed to replicate only what is req
 
 ## Updated
 Phantom v0.0.4.2
-Original Dev breakcrypto, modified by carsenk & CircuitBreaker
+Original Dev breakcrypto, modified by carsenk & CircuitBreaker & Tfinch
 
-- Added Innova (INN) Support
 - Added peer caching to peers.db
 
 ## Contact information
+
+* email: nexusnow@protonmail.com
+* discord: Tfinch
+* discord channel: https://discord.gg/eWB5z2E
 
 * email: development@innovacoin.io
 * twitter: https://twitter.com/innovacoin
@@ -64,12 +67,12 @@ That's it. You do not need to restart your masternodes, you don't need to change
 
 # Downloads
 
-* [Windows AMD64](https://github.com/innova-foundation/phantom/releases/download/v0.0.4.2/phantom-windows-amd64.exe)
-* [Linux AMD64](https://github.com/innova-foundation/phantom/releases/download/v0.0.4.2/phantom-linux-amd64)
-* [OSX AMD64](https://github.com/innova-foundation/phantom/releases/download/v0.0.4.2/phantom-darwin-amd64)
-* [ARMv7 Linux](https://github.com/innova-foundation/phantom/releases/download/v0.0.4.2/phantom-linux-arm)
-* [ARMv6 Pi](https://github.com/innova-foundation/phantom/releases/download/v0.0.4.2/phantom-linux-armv6)
-* [ARMv5 Pi](https://github.com/innova-foundation/phantom/releases/download/v0.0.4.2/phantom-linux-armv5)
+* [Windows AMD64](https://github.com/MotoAcidic/phantom/releases/download/v0.0.4.2/phantom-windows-amd64.exe)
+* [Linux AMD64](https://github.com/MotoAcidic/phantom/releases/download/v0.0.4.2/phantom-linux-amd64)
+* [OSX AMD64](https://github.com/MotoAcidic/phantom/releases/download/v0.0.4.2/phantom-darwin-amd64)
+* [ARMv7 Linux](https://github.com/MotoAcidic/phantom/releases/download/v0.0.4.2/phantom-linux-arm)
+* [ARMv6 Pi](https://github.com/MotoAcidic/phantom/releases/download/v0.0.4.2/phantom-linux-armv6)
+* [ARMv5 Pi](https://github.com/MotoAcidic/phantom/releases/download/v0.0.4.2/phantom-linux-armv5)
 
 # Setup
 
@@ -105,6 +108,8 @@ comments removed, epoch timestamp added to the end.
 
 ## Coin configurations exist for
 
+* Abet
+* CATS
 * INN (Innova)
 * $PAC
 * ANDS
@@ -189,11 +194,3 @@ BTC: 151HTde9NgwbMMbMmqqpJYruYRL4SLZg1S
 LTC: LhBx1TUyp7wiYuMxjefAGUGZVzuHRtPBA7
 
 DOGE: DBahutcjEAxfwQEW7kzft2y8dhZN2VtcG5
-
-carsenk:
-
-D: DMciTRDMZzcL48JoB1NJu5vhMkVuJLxhJe
-
-CircuitBreaker:
-
-INN: iQ9F85iF2Vo6vitE6DM2SgSxX57DuugAVc

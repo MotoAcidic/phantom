@@ -1,0 +1,9 @@
+{
+  "name": "ABET",
+  "magicbytes": "883e2b2a",
+  "port": 8322,
+  "protocol_number": 70917,
+  "magic_message": "DarkNet Signed Message:",
+  "magic_message_newline": true,
+  "bootstrap_url": ""
+}
